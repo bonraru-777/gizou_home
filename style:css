@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+h1 {
+  font-size: 50px; /* テキストサイズを50pxに */
+  color: red; /* テキストを赤色に */
+}
